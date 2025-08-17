@@ -5,3 +5,12 @@
   desc: |
     hello, this is cool,
     and that's a newline.
+  tags:
+    - 1:
+      name: tagname
+      colour: 19
+      text-colour: 18
+    - 1:
+      name: other-tagname
+      colour: 2
+      text-colour: 18
